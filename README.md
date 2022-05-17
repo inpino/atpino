@@ -1,18 +1,6 @@
-### xixi
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 我是小黄瓜没有刺 🉑️
+## 我是小黄瓜没有刺 🥒
 
 **擅长:**  
 
@@ -22,7 +10,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-- 🔭 I’m currently working on Web development
+- 🔭 I'm currently a good person
 - 🐧 QQ : 570588655
 - 📧 Email : 13021001372@163.com
 - 📁 掘金社区 : [小黄瓜没有刺](https://juejin.cn/user/3227821869648253)
