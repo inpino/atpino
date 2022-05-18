@@ -19,3 +19,5 @@
 ## 今年汇总 ✨
 
 ![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=konvyi&show_icons=true&theme=cobalt)
+
+[![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=konvyi&repo=github-readme-stats&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
