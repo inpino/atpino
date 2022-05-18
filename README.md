@@ -18,6 +18,6 @@
 
 ## 今年汇总 ✨
 
-![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=konvyi&show_icons=true&theme=cobalt)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=konvyi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konvyi&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
 
-[![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=konvyi&repo=github-readme-stats&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=konvyi&repo=range&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
