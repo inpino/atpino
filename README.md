@@ -1,6 +1,6 @@
 
 
-## 我是小黄瓜没有刺 🥒
+## 👋 , 我是小黄瓜没有刺 🥒
 
 **擅长:**  
 
@@ -18,4 +18,4 @@
 
 ## 今年汇总 ✨
 
-[konvyi's all](https://github-readme-stats.vercel.app/api?username=konvyi&show_icons=true&theme=cobalt)
+![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=konvyi&show_icons=true&theme=cobalt)
