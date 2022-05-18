@@ -1,6 +1,6 @@
 
 
-## 👋 , 我是小黄瓜没有刺 🥒
+## 👋   我是小黄瓜没有刺 🥒
 
 **擅长:**  
 
@@ -19,5 +19,3 @@
 ## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=konvyi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konvyi&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
-
-[![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=konvyi&repo=range&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![konvyi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=konvyi&repo=reprod&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
