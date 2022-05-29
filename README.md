@@ -14,7 +14,7 @@
 - 📁 掘金社区 : [小黄瓜没有刺](https://juejin.cn/user/3227821869648253) -->
 
 
-#### Hello 👏
+#### hi 👋
 
 > I'm currently a good person
 
