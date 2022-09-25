@@ -16,7 +16,7 @@
 
 #### hey 👋
 
-> I'm currently a good person
+> I want to be better
 
 <!-- 🔗 [](https://ky.ink) -->
 
